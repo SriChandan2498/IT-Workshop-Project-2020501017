@@ -21,3 +21,8 @@ a:link, a:visited
         padding: 10px 20px;
         text-align: center;
         display: inline-block;}
+img{
+    float: right;
+    padding-right: 50px;
+    padding-bottom: 50px;
+}

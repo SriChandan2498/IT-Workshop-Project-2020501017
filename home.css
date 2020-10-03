@@ -23,6 +23,7 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     padding-top: 100px;
 }
 nav {
+    font-size: 40px;
     overflow: hidden; /* Hide overflow */
     background-color:rgb(109, 107, 107) ; /* Dark background color */
   }
