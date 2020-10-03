@@ -1,0 +1,19 @@
+html{
+    background-color: rgb(196, 192, 192);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+}
+.header{
+    padding: 10px;
+    text-align: center; 
+    background: #333533;
+    color:whitesmoke;
+}
+h3{
+    background-color: rgb(146, 143, 143);
+}
+a{
+    float: right;
+    padding-right: 90px;
+    padding-top: 10px;
+}
